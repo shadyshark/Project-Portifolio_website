@@ -1,0 +1,47 @@
+
+h1 {
+	color: #2d3c49;
+	text-transform: uppercase;
+	font-family: Helvetica, sans-serif;
+}
+/* make image smaller to get icon*/
+.icon {
+	width: 10%;
+	height: 10%
+}
+/*make it 100 to response with other devices*/
+.intro {
+	width: 100%
+}
+
+.slogan , .featured ,h2 {
+	font-family: Trattatello, fantasy,sans-serif;
+	text-transform: uppercase;
+	font-size: 26px;
+	color:#7d97ad;
+}
+
+h4{
+	font-family: Verdana, sans-serif;
+	text-transform: uppercase;
+	color: #2d3c49;
+}
+
+.photo {
+	width: 400px;
+	height: 200px;
+}
+
+
+/*display three section in the same raw*/
+.project {
+	float: left;
+	width: 33.33%;
+
+}
+/* facebook and twitter tabs*/
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+}
